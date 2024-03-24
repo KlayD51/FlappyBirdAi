@@ -9,4 +9,5 @@ This project tests the idea of python machine learning, while bringing back a th
 - run by calling FlappyBirdGame.py
 - need the img files
 
-![Flappy Bird]([image link](https://www.wired.com/images_blogs/gamelife/2014/02/title.jpg)https://www.wired.com/images_blogs/gamelife/2014/02/title.jpg)
+
+![flappybird-1681242406514](https://github.com/KlayD51/FlappyBirdAi/assets/86978788/846a3732-ef42-4960-a8ca-e37a808b0210)
