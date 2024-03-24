@@ -6,4 +6,7 @@ This project tests the idea of python machine learning, while bringing back a th
 
 - clone or fork
 - install dependencies
-- run by calling FlappyBirdGame.py 
+- run by calling FlappyBirdGame.py
+- need the img files
+
+![Flappy Bird]([image link](https://www.wired.com/images_blogs/gamelife/2014/02/title.jpg)https://www.wired.com/images_blogs/gamelife/2014/02/title.jpg)
